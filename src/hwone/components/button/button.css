@@ -1,0 +1,35 @@
+.my-button {
+
+    display :flex;
+    flex-direction: column;
+  
+    border-radius:5px;
+    /* padding : 5px; */
+   
+
+}
+
+.buttonText{
+
+    display :flex;
+    color:white;
+  
+    border-radius:5px;
+    padding : 16px;
+    background: transparent;
+    font-size: 14px;
+  
+    border:none;
+    outline:none;
+    text-align: center;
+    justify-content:center;
+    align-items:center;
+    height:40px;
+    cursor:pointer;
+    font-weight:bold;
+    
+
+
+
+}
+

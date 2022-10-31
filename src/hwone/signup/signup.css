@@ -1,0 +1,43 @@
+h1{
+   color: white;
+   text-align: left;
+
+}
+
+
+.my-button-signup{
+   background:#ffd700;
+   border-radius: 5px;
+   margin: 16px 7px;
+   color :black;
+   
+}
+
+.q-title{
+   font-size: 13px;
+   line-height: 0px;
+   margin-top: 7px;
+   row-gap: 2px;
+   color: rgb(84, 81, 81)
+}
+
+.q-btn{
+   text-decoration: none;
+   color: white;
+
+}
+
+.signup{
+
+   display:flex;
+   width:100%;
+   max-width: 450px;
+   height:100%;
+   max-height: 500px;
+   background-color: gray;
+   border-radius: 20px;
+   padding: 16px;
+   /* row-gap: 12px; */
+   flex-direction: column;
+
+}

@@ -1,0 +1,88 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
+
+
+h1{
+    color: white;
+ }
+
+ .signin-reset{
+
+    display:flex;
+    width:100%;
+    max-width: 450px;
+    height:100%;
+    max-height: 550px;
+    background-color: gray;
+    border-radius: 20px;
+    padding: 16px;
+    row-gap: 12px;
+    flex-direction: column;
+ 
+ }
+
+ .my-button-next{
+    background:#ffd700;
+    border-radius: 5px;
+    margin: 0 7px;
+    color :black;
+    row-gap:12px ;
+    margin-top: 10px;
+ }
+ 
+
+ .my-button-apple{
+
+    background:#000000;
+    border-radius: 5px;
+    margin: 0 7px;
+    color:black;
+    margin-top: 16px;
+    position: relative;
+    
+    
+
+
+ }
+
+ .my-button-facebook{
+
+    background:rgb(72, 166, 220);
+    border-radius: 5px;
+    margin: 0 7px;
+    color:black;
+    margin-top: 16px;
+    position: relative;
+    
+    
+
+
+ }
+
+ .my-button-google{
+
+    background:rgb(241, 87, 87);
+    border-radius: 5px;
+    margin: 0 7px;
+    color:black;
+    margin-top: 16px;
+    position: relative;
+    
+    
+    
+
+
+ }
+
+.icon{
+
+    color:white;
+    position:absolute;
+  
+    top: 11px;
+    left: 15px;
+
+
+}
+
+ 
